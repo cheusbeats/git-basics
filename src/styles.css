@@ -1,5 +1,15 @@
 h1 {
     font-weight:normal;
     font-size:20px;
+<<<<<<< HEAD
+    }
+
+h2 {
+    font-weight:hard;
+    font-size:10px;
+    font-style:helvetica;
+    }
+=======
     align:center;
 }
+>>>>>>> dev
